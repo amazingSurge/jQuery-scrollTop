@@ -89,13 +89,13 @@ $('body').scrollToTop("enable");
 
 //  remove Dom emement and unbound all events 
 $('body').scrollToTop("destroy");
-
+```
 
 ## Browser support
 jquery-scrollToTop is verified to work in Internet Explorer 7+, Firefox 2+, Opera 9+, Google Chrome and Safari browsers. Should also work in many others.
 
 Mobile browsers (like Opera mini, Chrome mobile, Safari mobile, Android browser and others) is coming soon.
-```
+
 
 ## Changes
 
